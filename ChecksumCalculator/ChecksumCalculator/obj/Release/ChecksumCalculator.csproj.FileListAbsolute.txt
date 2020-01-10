@@ -1,0 +1,17 @@
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\bin\Release\ChecksumCalculator.exe.config
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\bin\Release\ChecksumCalculator.exe
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\bin\Release\ChecksumCalculator.pdb
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\obj\Release\ChecksumCalculator.ChecksumCalculator.resources
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\obj\Release\ChecksumCalculator.Properties.Resources.resources
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\obj\Release\ChecksumCalculator.csproj.GenerateResource.Cache
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\obj\Release\ChecksumCalculator.exe
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\obj\Release\ChecksumCalculator.pdb
+C:\Users\Richard\SimpleCheckSumCalculator\ChecksumCalculator\ChecksumCalculator\bin\Release\ChecksumCalculator.exe.config
+C:\Users\Richard\SimpleCheckSumCalculator\ChecksumCalculator\ChecksumCalculator\obj\Release\ChecksumCalculator.exe
+C:\Users\Richard\SimpleCheckSumCalculator\ChecksumCalculator\ChecksumCalculator\obj\Release\ChecksumCalculator.pdb
+C:\Users\Richard\SimpleCheckSumCalculator\ChecksumCalculator\ChecksumCalculator\bin\Release\ChecksumCalculator.exe
+C:\Users\Richard\SimpleCheckSumCalculator\ChecksumCalculator\ChecksumCalculator\bin\Release\ChecksumCalculator.pdb
+C:\Users\Richard\SimpleCheckSumCalculator\ChecksumCalculator\ChecksumCalculator\obj\Release\ChecksumCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Richard\SimpleCheckSumCalculator\ChecksumCalculator\ChecksumCalculator\obj\Release\ChecksumCalculator.ChecksumCalculator.resources
+C:\Users\Richard\SimpleCheckSumCalculator\ChecksumCalculator\ChecksumCalculator\obj\Release\ChecksumCalculator.Properties.Resources.resources
+C:\Users\Richard\SimpleCheckSumCalculator\ChecksumCalculator\ChecksumCalculator\obj\Release\ChecksumCalculator.csproj.GenerateResource.Cache

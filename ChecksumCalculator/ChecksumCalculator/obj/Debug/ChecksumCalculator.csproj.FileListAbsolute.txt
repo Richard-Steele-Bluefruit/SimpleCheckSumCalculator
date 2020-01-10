@@ -1,0 +1,12 @@
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\bin\Debug\ChecksumCalculator.exe.config
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\bin\Debug\ChecksumCalculator.exe
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\bin\Debug\ChecksumCalculator.pdb
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\obj\Debug\ChecksumCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\obj\Debug\ChecksumCalculator.Properties.Resources.resources
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\obj\Debug\ChecksumCalculator.csproj.GenerateResource.Cache
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\obj\Debug\ChecksumCalculator.exe
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\obj\Debug\ChecksumCalculator.pdb
+C:\Users\Richard\ChecksumCalculator\ChecksumCalculator\obj\Debug\ChecksumCalculator.ChecksumCalculator.resources
+C:\Users\Richard\SimpleCheckSumCalculator\ChecksumCalculator\ChecksumCalculator\bin\Debug\ChecksumCalculator.exe.config
+C:\Users\Richard\SimpleCheckSumCalculator\ChecksumCalculator\ChecksumCalculator\obj\Debug\ChecksumCalculator.exe
+C:\Users\Richard\SimpleCheckSumCalculator\ChecksumCalculator\ChecksumCalculator\obj\Debug\ChecksumCalculator.pdb
